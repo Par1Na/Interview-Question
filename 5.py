@@ -1,7 +1,6 @@
 # Interview-Question
 
 
-
 def calculateSum(n) : 
 
     if (n <= 0) : 
@@ -24,8 +23,6 @@ def calculateSum(n) :
 
 n = 4
 
-print("Sum of Fibonacci numbers is : " , 
-
-      calculateSum(n)) 
+print("Sum of Fibonacci numbers is : " , calculateSum(n)) 
 
   
